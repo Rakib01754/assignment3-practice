@@ -2,6 +2,10 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
+.carousel-item img {
+    height: 90vh;
+}
+
 .blurry {
     filter: brightness(50%)
 }
